@@ -1,5 +1,5 @@
 # OpenComputersMS
-minesweeper.lua is Minesweeper the Minecraft mod OpenComputers.
+minesweeper.lua is classic Minesweeper for the Minecraft mod OpenComputers.
 
 Tier 2 screen and graphics card required to run.
 
