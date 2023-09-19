@@ -9,6 +9,6 @@ Usage: `minesweeper [options] <rows> <columns> <mines>`
 
  `-d`: Dark mode.
  
- `-n`: Mines are placed after the first tile is cleared.
+ `-n`: Mines are placed after the first tile is cleared (no guess mode).
  
  `--t=<seconds>`: Timer mode.
